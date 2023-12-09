@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+
 <html lang="en">
-<head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Resume</title>
@@ -118,7 +118,7 @@
 
 		
 		</style>
-	</head>
+	
 	<body>
 	
 		<header>
@@ -183,8 +183,8 @@
 				
 				<h2>Career Objective:</h2>   
 				<li> As a Computer Science student, my career objective is to gain more knowledge about computer so that I can make my own application software,
-					help them to be literate in our digital world and make a software company that has the ability to help people needs and provide factual information to avoid fake news. 
-					I can also help them to be aware of human trafficking and cyber bullying.
+					help them to be literate in our digital world and make a software company that has the ability to help people needs and provide factual 
+                                        information to avoid fake news. I can also help them to be aware of human trafficking and cyber bullying.
 				
 			<h2>Personal Information:</h2>
 				<p><span>Birthdate:</span> November 19, 2003</p>
@@ -198,7 +198,7 @@
 				<p><span>Father's Name:</span> Gomer P. Laparan</p>
 				<p><span>Mother's Name:</span> Eleneta B. Laparan</p>
 				<p><span>Religion:</span> Roman Catholic</p>
-				<p>Language:</span> Bisaya, Tagalog, English</p>
+				<p>Language:Bisaya, Tagalog, English</p>
 		<hr class="side-line">
 				<h2>Contact Information:</h2>
 				<p><span>📧:</span> kenjaylaparan@gamil.com</p>
@@ -210,12 +210,12 @@
 			<p><span>Goaw, Elementary School</span></p>
 		<h3>Secondary:</h3>
 				<p><span>Compra National High, Liloy,Zamboanga Del Norte</span></p>
-				<li><span>Studied - AGRI-CROP PRODUCTION<span></li>
+				<li><span>Studied - AGRI-CROP PRODUCTION<span>
 			<p><span>Compra National High School,Liloy,Zamboanga Del Norte</span></p>
 			<li>Studied - HUMANITIES AND SOCIAL SCIENCES</li>
 			<h3>Tertiary</h3>
-			<p><span>Jose Rizal Memorial State University-TC<span></p>
-			<li><span>Studies - Bachelor Of Science in Computer Science<span></li>
+			<p><span>Jose Rizal Memorial State University-TC<span>
+			<li><span>Studies - Bachelor Of Science in Computer Science<span>
 		<hr class="side-line">
 			<h2>Address:</h2>
 			<p><span>Hometown:</span>Goaw Liloy, Zamboanga Del Norte</p>
@@ -223,12 +223,7 @@
 			
 			
 	
-				</ul>
-			</div>
-		</div>
-	
-	</body>
-	</html>
+			
 
 	   
 
